@@ -35,4 +35,4 @@ client.on('messageDelete', message => {
   })
 });          
 
-client.login(token); 
+client.login("OTk5ODAwNDAxMDM5NzQwOTk4.GWThOH.bgXwA77kQt2pYbiIWFybzjPMywN1cYwmnOr9Z0"); 
